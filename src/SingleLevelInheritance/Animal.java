@@ -8,6 +8,6 @@ public class Animal {
 	
 	public void dog() {
 		
-		System.out.println("Dog can bark");
+		System.out.println("Dog can bark and chew");
 	}
 }
